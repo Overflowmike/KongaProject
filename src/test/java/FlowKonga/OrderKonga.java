@@ -19,13 +19,23 @@ public class OrderKonga {
         System.out.println(driver.getTitle());
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
-        driver.findElement(By.id("https://www.konga.com/category/phones-tablets-5294?menu=Phones and Tablets > Mobile")).click(); }
+        driver.findElement(By.id("https://www.konga.com/account/login?return_url=/")).click(); }
+
+        driver.findElement(By.label=("Enter Email Address OR Phone Number")).sendKeys("alabimichael23@gmail.com");
+
+        driver.findElement(By.label=("Enter Password")).sendKeys("alabimichael23@");
+
+        driver.findElement(By.id("submit">Login</button)).click();
+
+
+        driver.findElement(By.id("https://www.konga.com/category/phones-tablets-5294?menu=Phones and Tablets > Mobile")).click();
+
 
         driver.findElement(By.label=("Search for products, brands and categories...")).sendKeys("Samsung");
 
        driver.findElement(By.id("Searchbutton"))
 
-       driver.findElement(By.id("Add To Cart button")).click();
+               driver.findElement(By.id("Add To Cart button")).click();
        driver.findElement(By.id("cart")).click();
        driver.findElement(By.id("increment")).click();
        driver.findElement(By.label=("selectPaymentMethod")).sendKeys("kpaygateway">...</button>);
@@ -36,6 +46,7 @@ public class OrderKonga {
        driver.findElement(By.label=("cvv input_class")).sendKeys("776");
        driver.findElement(By.label=("card-pin")).sendKeys("7764");
        driver.findElement(By.id("validateCardForm")).click();
+
 }
 
 public static void main(String args[]) throws InterruptedException {

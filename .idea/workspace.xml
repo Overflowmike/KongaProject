@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ed539ac-eea6-406e-8e2e-e686e4ccdcaa" name="Default Changelist" comment="" />
+    <list default="true" id="5ed539ac-eea6-406e-8e2e-e686e4ccdcaa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FlowKonga/OrderKonga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FlowKonga/OrderKonga.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +28,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1aaTVoVdhfbHTKdCts1xQYgh6nI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -77,7 +84,8 @@
       <workItem from="1586972737940" duration="2166000" />
       <workItem from="1586976760314" duration="4000" />
       <workItem from="1586976993118" duration="4884000" />
-      <workItem from="1587121718222" duration="3835000" />
+      <workItem from="1587121718222" duration="4367000" />
+      <workItem from="1587287952007" duration="1786000" />
     </task>
     <servers />
   </component>
@@ -85,6 +93,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Notifications" timestamp="1587288136310">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1587288136310" />
     <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587132838694">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
