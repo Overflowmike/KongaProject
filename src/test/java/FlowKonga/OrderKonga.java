@@ -32,8 +32,9 @@ public class OrderKonga {
     {
         driver.findElement(By.id("https://www.konga.com/category/computers-accessories-5227")).click();
 
+        driver.findElement(By.id("https://www.konga.com/category/phones-tablets-5294?menu=Phones and Tablets > Mobile")).click();
 
-
+        
         driver.findElement(By.id("Add To Cart button")).click();
         driver.findElement(By.id("cart")).click();
         driver.findElement(By.id("increment")).click();
