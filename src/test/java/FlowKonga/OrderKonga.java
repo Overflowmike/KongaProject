@@ -46,10 +46,10 @@ public class OrderKonga {
         driver.findElement(By.id("Continue to Payment</button")).click();
         driver.findElement(By.id("dashboard-card_button Card</button")).click();
 
-        driver.findElement(By.label=("card-number input_class")).sendKeys("5199 0221 1193 0776");
+        driver.findElement(By.label=("card-number input_class")).sendKeys("5199 0221 11we @as2");
         driver.findElement(By.label=("date input_class")).sendKeys("05/20");
         driver.findElement(By.label=("cvv input_class")).sendKeys("776");
-        driver.findElement(By.label=("card-pin")).sendKeys("7764");
+        driver.findElement(By.label=("card-pin")).sendKeys("assed");
         driver.findElement(By.id("validateCardForm")).click();
     }
 
