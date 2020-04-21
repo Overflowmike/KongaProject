@@ -20,11 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ed539ac-eea6-406e-8e2e-e686e4ccdcaa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Konga.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/FlowKonga/OrderKonga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FlowKonga/OrderKonga.java" afterDir="false" />
     </list>
@@ -152,9 +147,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="448" y="356" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587121718628" />
-    <state x="61" y="60" key="new project wizard" timestamp="1587121788770">
+    <state x="61" y="0" key="new project wizard" timestamp="1587468797471">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="61" y="60" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587121788770" />
+    <state x="61" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587468797471" />
   </component>
 </project>
