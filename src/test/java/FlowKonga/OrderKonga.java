@@ -40,7 +40,8 @@ public class OrderKonga {
 
         driver.findElement(By.id("Add To Cart button")).click();
         driver.findElement(By.id("cart")).click();
-
+        driver.findElement(By.id("increment")).click();
+        driver.findElement(By.label=("selectPaymentMethod")).sendKeys("kpaygateway">...</button>);
     }
 
 public static void main(String args[]) throws InterruptedException {
