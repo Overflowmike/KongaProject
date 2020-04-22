@@ -21,9 +21,9 @@ public class OrderKonga {
 
         driver.findElement(By.id("https://www.konga.com/account/login?return_url=/")).click();
 
-        driver.findElement(By.label=("Email or phone")).sendKeys("alabimichael23@gmail.com");
+        driver.findElement(By.label=("Email or phone")).sendKeys("xxxxx");
 
-        driver.findElement(By.label=("Enter your password")).sendKeys("Samsung@111");
+        driver.findElement(By.label=("Enter your password")).sendKeys("xxxxx");
 
         driver.findElement(By.id("Next")).click();
 
