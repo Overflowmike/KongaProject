@@ -23,7 +23,7 @@ public class OrderKonga {
 
         driver.findElement(By.id("Email or phone")).sendKeys("alabimichael23@gmail.com");
 
-        driver.findElement(By.id=("Enter your password")).sendKeys("xxxx");
+        driver.findElement(By.id=("Enter your password")).sendKeys("xxxXXx");
 
         driver.findElement(By.id("Next")).click();
 
