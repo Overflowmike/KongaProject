@@ -43,6 +43,8 @@ public class OrderKonga {
 
         driver.findElement(By.id=("selectPaymentMethod")).sendKeys("kpaygateway\">...</button>");
 
+        driver.findElement(By.id("Continue to Payment</button")).click();
+        driver.findElement(By.id("dashboard-card_button Card</button")).click();
 
     }
 
