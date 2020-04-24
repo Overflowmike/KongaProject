@@ -31,6 +31,9 @@ public class OrderKonga {
 
         driver.findElement(By.id("https://www.konga.com/category/phones-tablets-5294?menu=Phones and Tablets > Mobile")).click();
 
+        driver.findElement(By.id=("Search for products, brands and categories...")).sendKeys("Samsung");
+
+        driver.findElement(By.id("Searchbutton")).click();
 
     }
 
