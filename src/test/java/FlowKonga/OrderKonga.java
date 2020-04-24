@@ -35,6 +35,8 @@ public class OrderKonga {
 
         driver.findElement(By.id("Searchbutton")).click();
 
+        driver.findElement(By.id("Add To Cart button")).click();
+
     }
 
 public static void main(String args[]) throws InterruptedException {
