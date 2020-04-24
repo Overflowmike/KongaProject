@@ -39,6 +39,8 @@ public class OrderKonga {
 
         driver.findElement(By.id("cart")).click();
 
+        driver.findElement(By.id("increment")).click();
+
     }
 
 public static void main(String args[]) throws InterruptedException {
