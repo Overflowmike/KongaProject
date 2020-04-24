@@ -29,7 +29,10 @@ public class OrderKonga {
 
         driver.findElement(By.id("https://www.konga.com/category/computers-accessories-5227")).click();
 
-}
+        driver.findElement(By.id("https://www.konga.com/category/phones-tablets-5294?menu=Phones and Tablets > Mobile")).click();
+
+
+    }
 
 public static void main(String args[]) throws InterruptedException {
         OrderKonga = new OrderKonga();
