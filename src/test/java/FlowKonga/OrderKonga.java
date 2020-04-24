@@ -44,8 +44,16 @@ public class OrderKonga {
         driver.findElement(By.id=("selectPaymentMethod")).sendKeys("kpaygateway\">...</button>");
 
         driver.findElement(By.id("Continue to Payment</button")).click();
-        
+
         driver.findElement(By.id("dashboard-card_button Card</button")).click();
+
+        driver.findElement(By.id=("card-number input_class")).sendKeys("5199 0221 11we @as2");
+
+        driver.findElement(By.id=("date input_class")).sendKeys("05/20");
+
+        driver.findElement(By.id=("cvv input_class")).sendKeys("776");
+
+        driver.findElement(By.id=("card-pin")).sendKeys("assed");
 
     }
 
